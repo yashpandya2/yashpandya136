@@ -12,7 +12,7 @@
 - 💬 Ask me about anything
 - 😄 Pronouns: He/Him
 - 📫 Connect with me: [Linkedin](https://www.linkedin.com/in/yashpandya136)
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Learning new Technologies....
 - 📝 [Resume]()
 <br>
 <br>
