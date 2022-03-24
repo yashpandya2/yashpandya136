@@ -100,6 +100,8 @@
 
 
 <a href="https://github.com/yashpandya136/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashpandya136&layout=compact&theme=buefy&hide_border=true" /></a>
+<br>
+<br>
 <a href="https://github.com/yashpandya136/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yashpandya136&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="yashpandya136's github stats" /></a>
 <div align="center">
 </div>
