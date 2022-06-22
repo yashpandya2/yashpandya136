@@ -1,6 +1,6 @@
-<h1 align="center">Hii <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, My name is Yash Pandya</h1>
+<h1 align="center">Hii, My name is Yash Pandya</h1>
  
- <a href="https://github.com/yashpandya136"><img align="right" src="46207-programmer-1.gif" style="width: 350px; height: 350px;"/></a> 
+ <a href="https://github.com/yashpandya136"><img align="right" src="46207-programmer-1.gif" style="width: 50px; height: 50px;"/></a> 
 <p>👨‍💻 Who am I?</p>
 
 <!--  <samp><b>Currently, I'm in my 3rd year of B.E. in IT. </samp></b> -->
