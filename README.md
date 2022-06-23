@@ -7,7 +7,7 @@
 <!--    <a href="https://github.com/anujvaghani0"><img src="hello.gif"style="width: 200px; height: 200px;"/></a>  -->
 - 👨🏻‍🎓 Currently persuing my B.E. in IT
 - 🔭 I’m currently working on MERN Stack Development
-- 🌱 I’m currently Python + MERN Stack
+- 🌱 I’m currently learning Python + MERN Stack
 - 👯 I’m looking to collaborate on Creative Projects
 - 💬 Ask me about anything
 - 😄 Pronouns: He/Him
